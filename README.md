@@ -15,6 +15,8 @@ windows, gives every Mission Control desktop its own layout, name and color, and
 
 ### [Download the latest version](../../releases/latest)
 
+[mawio.bajzath.cloud](https://mawio.bajzath.cloud)
+
 </td></tr></table>
 
 ---
@@ -110,5 +112,7 @@ Layouts and focus stats are stored locally in MAWIO's preferences.
 ## Feedback
 
 Found a bug or have an idea? [Open an issue](../../issues).
+
+Website: [mawio.bajzath.cloud](https://mawio.bajzath.cloud)
 
 <sub>MAWIO is free to download and use. The source code is not public.</sub>
